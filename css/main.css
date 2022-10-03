@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 :root {
+  --RubikFonts: "Rubik", sans-serif;
+  --MenuColor: #4a4a4a;
+  --BackgroundColor: #3cdbc0;
+  --TextColor: #ffffff;
 }
 body {
   width: 100vw;
