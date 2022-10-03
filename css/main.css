@@ -30,7 +30,6 @@ body {
   padding-top: 10px;
   padding-bottom: 13px;
   gap: 10px;
-  border: 2px red solid;
 }
 .header-logo {
   width: 155px;
@@ -63,7 +62,6 @@ body {
   align-items: center;
   position: relative;
   top: 15vh;
-  border: 2px red solid;
 }
 .main-title {
   width: 30%;
@@ -73,7 +71,6 @@ body {
   font-weight: 700;
   text-align: center;
   line-height: 1.3;
-  border: 2px solid red;
 }
 @media screen and (min-width: 768px) {
   .header {
@@ -83,5 +80,12 @@ body {
   }
   .main-title {
     font-size: 4rem;
+  }
+  .header-logo {
+    margin: 20px 0px;
+    margin-left: 30px;
+  }
+  .header-nav {
+    margin-right: 30px;
   }
 }
