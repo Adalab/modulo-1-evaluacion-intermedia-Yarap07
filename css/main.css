@@ -85,9 +85,9 @@ body {
     justify-content: space-between;
     padding: 20px 30px;
   }
-  .header-logo {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  .main {
+    position: relative;
+    top: 10vh;
   }
   .main-title {
     font-size: 4rem;
